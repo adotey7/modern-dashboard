@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/modern-dashboard.git
+    git clone https://github.com/adotey7/modern-dashboard.git
     ```
 2. Navigate into the project directory:
     ```
